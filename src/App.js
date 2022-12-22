@@ -100,7 +100,7 @@ const airports = [
      "airport":"Beijing Daxing International Airport"
   },
   {
-     "country":"Chile",
+     "country":"China",
      "city":"Shanghai",
      "airport":"Shanghai Pudong International Airport"
   },
