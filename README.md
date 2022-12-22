@@ -4,7 +4,7 @@ Welcome to Airport Generator, a simple website that generates random airports fr
 
 ## How to Use
 
-Using Airport Generator is easy. Simply click the "Generate Airport" button to see a randomly selected airport displayed on the screen. You can click the button as many times as you like to generate new airports.
+Using Airport Generator is easy. Simply click the plane to see a randomly selected airport displayed on the screen. You can click the button as many times as you like to generate new airports.
 
 ## About the Data
 
