@@ -55,7 +55,7 @@ const airports = [
      "airport":"Flamingo International Airport"
   },
   {
-     "country":"Bonaire",
+     "country":"Brazil",
      "city":"Rio de Janeiro",
      "airport":"Rio de Janeiro-Galeão International Airport"
   },
@@ -95,8 +95,8 @@ const airports = [
      "airport":"Arturo Merino Benítez International Airport"
   },
   {
-     "country":"Chile",
-     "city":"Santiago",
+     "country":"China",
+     "city":"Beijing",
      "airport":"Beijing Daxing International Airport"
   },
   {
@@ -180,22 +180,22 @@ const airports = [
      "airport":"Curaçao International Airport"
   },
   {
-     "country":"Curaçao",
+     "country":"Dominican Republic",
      "city":"Puerto Plata",
      "airport":"Gregorio Luperón International Airport"
   },
   {
-     "country":"Curaçao",
+     "country":"Dominican Republic",
      "city":"Punta Cana",
      "airport":"Punta Cana International Airport"
   },
   {
-     "country":"Curaçao",
+     "country":"Dominican Republic",
      "city":"Santiago de los Caballeros",
      "airport":"Cibao International Airport"
   },
   {
-     "country":"Curaçao",
+     "country":"Dominican Republic",
      "city":"Santo Domingo",
      "airport":"Las Américas International Airport"
   },
@@ -295,17 +295,17 @@ const airports = [
      "airport":"Ben Gurion Airport"
   },
   {
-     "country":"Israel",
+     "country":"Italy",
      "city":"Milan",
      "airport":"Milan Malpensa Airport"
   },
   {
-     "country":"Israel",
+     "country":"Italy",
      "city":"Rome",
      "airport":"Leonardo da Vinci-Fiumicino Airport"
   },
   {
-     "country":"Israel",
+     "country":"Italy",
      "city":"Venice",
      "airport":"Venice Marco Polo Airport"
   },
@@ -325,7 +325,7 @@ const airports = [
      "airport":"Haneda Airport"
   },
   {
-     "country":"Jamaica",
+     "country":"Japan",
      "city":"Tokyo",
      "airport":"Narita International Airport"
   },
@@ -465,8 +465,8 @@ const airports = [
      "airport":"Providenciales International Airport"
   },
   {
-     "country":"Turks and Caicos Islands",
-     "city":"Providenciales",
+     "country":"United Kingdom",
+     "city":"London",
      "airport":"Heathrow Airport"
   },
   {
