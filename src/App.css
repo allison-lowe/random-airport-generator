@@ -3,25 +3,23 @@
 }
 
 .App-logo {
-  height: 40vmin;
-  pointer-events: none;
+  height: 30vmin;
 }
 
 .App-logo:hover {
   cursor: pointer;
 }
 
-.p:hover {
-  cursor: pointer;
-}
-
-@media (prefers-reduced-motion: no-preference) {
+/* @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
-}
+} */
 
 .App-header {
+  background-image: url(beach.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
