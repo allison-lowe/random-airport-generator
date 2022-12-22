@@ -7,6 +7,14 @@
   pointer-events: none;
 }
 
+.App-logo:hover {
+  cursor: pointer;
+}
+
+.p:hover {
+  cursor: pointer;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
