@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d28894f3.css",
+    "main.js": "/static/js/main.23b8c2ae.js",
+    "static/js/787.d15cec77.chunk.js": "/static/js/787.d15cec77.chunk.js",
+    "static/media/paradise.png": "/static/media/paradise.7a9574020082e09f5c21.png",
+    "static/media/plane.png": "/static/media/plane.7fd1bd990ad97c52bb3f.png",
+    "static/media/beach.jpg": "/static/media/beach.82630df7b8b4c9312daa.jpg",
+    "index.html": "/index.html",
+    "main.d28894f3.css.map": "/static/css/main.d28894f3.css.map",
+    "main.23b8c2ae.js.map": "/static/js/main.23b8c2ae.js.map",
+    "787.d15cec77.chunk.js.map": "/static/js/787.d15cec77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d28894f3.css",
+    "static/js/main.23b8c2ae.js"
+  ]
+}
