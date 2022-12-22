@@ -1074,6 +1074,7 @@ function App() {
     <div className="App">
       <header className='App-header'>
       <div>
+      <img src={paradise} alt="paradise" style={{ width: '25rem', display: 'block', margin: '0 auto' }} />
       <img src={dice} className="App-logo" onClick={chooseRandomAirport} />
       {airport ? (
         <table>
@@ -1093,8 +1094,8 @@ function App() {
           </tbody>
         </table>
       ) : (
-        <img src={paradise} alt="Animated GIF" style={{ width: '25rem', display: 'block', margin: '0 auto' }} />
-        // <h2>Paradise Awaits</h2>
+      //   <img src={paradise} alt="Animated GIF" style={{ width: '25rem', display: 'block', margin: '0 auto' }} />
+        <p>click the plane to begin</p>
       )}
     </div>
       </header>
