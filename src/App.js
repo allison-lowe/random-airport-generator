@@ -3,8 +3,6 @@ import './App.css';
 import dice from './dice.png';
 import axios from 'axios';
 
-// const airports = ['New York', 'Los Angeles', 'Chicago', 'Houston', 'Philadelphia', 'Phoenix', 'San Antonio', 'San Diego', 'Dallas', 'San Jose'];
-
 function App() {
   const [airport, setAirport] = useState('New York');
 
@@ -18,16 +16,6 @@ function App() {
     // use the data in your app
     console.log(randomAirport);
   }
-  // getRandomAirport();
-
-//   // use the useEffect hook to update the city when the image is clicked
-// useEffect(() => {
-// // choose a random city from the list
-// const newAirport = getRandomAirport();
-
-// // update the airport state
-// setAirport(newAirport);
-// }, []);
 
 const handleClick = () => {
   // choose a random city from the list
