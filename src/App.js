@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import './App.css';
 import dice from './plane.png';
 import paradise from './paradise.png';
+import travel from './travel.gif';
 
 const airports = [
   {
@@ -146,33 +147,8 @@ const airports = [
   },
   {
      "country":"Cuba",
-     "city":"Camagüey",
-     "airport":"Ignacio Agramonte International Airport"
-  },
-  {
-     "country":"Cuba",
      "city":"Havana",
      "airport":"José Martí International Airport"
-  },
-  {
-     "country":"Cuba",
-     "city":"Holguín",
-     "airport":"Frank País Airport"
-  },
-  {
-     "country":"Cuba",
-     "city":"Santa Clara",
-     "airport":"Abel Santamaría Airport"
-  },
-  {
-     "country":"Cuba",
-     "city":"Santiago de Cuba",
-     "airport":"Antonio Maceo Airport"
-  },
-  {
-     "country":"Cuba",
-     "city":"Varadero",
-     "airport":"Juan Gualberto Gómez Airport"
   },
   {
      "country":"Curaçao",
@@ -320,7 +296,7 @@ const airports = [
      "airport":"Sangster International Airport"
   },
   {
-     "country":"Jamaica",
+     "country":"Japan",
      "city":"Tokyo",
      "airport":"Haneda Airport"
   },
@@ -1092,9 +1068,9 @@ function App() {
             <td style={{ textAlign: 'left'}}> &nbsp; {airport.airport}</td>
             </tr>
           </tbody>
+          <img src={travel} alt="Animated GIF" style={{ width: '25rem', display: 'block', margin: '0 auto' }} />
         </table>
       ) : (
-      //   <img src={paradise} alt="Animated GIF" style={{ width: '25rem', display: 'block', margin: '0 auto' }} />
         <p>click the plane to begin</p>
       )}
     </div>
